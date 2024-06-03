@@ -1,5 +1,21 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.behance.net/abhiroopchaudhuri)
 
+<h3 align="left">My Recent Projects:</h3>
+<table>
+  <tr>
+    <td align="center">
+      <h4>Cleochat</h4>
+      <a href="https://cleochat.example.com">Live Site</a><br>
+      <img src="https://via.placeholder.com/150" alt="Cleochat Screenshot" width="150">
+    </td>
+    <td align="center">
+      <h4>Project 2</h4>
+      <a href="https://project2.example.com">Live Site</a><br>
+      <img src="https://via.placeholder.com/150" alt="Project 2 Screenshot" width="150">
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">Hi 👋, I'm Abhiroop Chaudhuri</h1>
 <h3 align="center">A Front-End Developer and Senior UX Designer from India with experience in Web 3.0, Fintech, Social Media platforms, Healthcare, and much more.</h3>
 
