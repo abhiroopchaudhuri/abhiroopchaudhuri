@@ -11,7 +11,7 @@
     <td align="center">
       <h4>Voyager: AI Images & Prompt Gallery</h4>
       <a href="https://abhicode7.github.io/voyager">Live Site</a><br>
-      <img src="https://via.placeholder.com/150" alt="Project 2 Screenshot" width="400">
+      <img src="[https://via.placeholder.com/150](https://github.com/abhicode7/abhicode7/assets/87370756/26b83fa5-869a-4973-bc87-6e7109ffa7cd)" alt="Project 2 Screenshot" width="400">
     </td>
   </tr>
 </table>
