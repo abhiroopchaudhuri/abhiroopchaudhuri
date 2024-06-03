@@ -4,14 +4,14 @@
 <table>
   <tr>
     <td align="center">
-      <h4>Cleochat</h4>
-      <a href="https://cleochat.example.com">Live Site</a><br>
-      <img src="https://via.placeholder.com/150" alt="Cleochat Screenshot" width="150">
+      <h4>Cleochat: AI Multiple Personality Chat App</h4>
+      <a href="https://cleochat-eta.vercel.app/">Hosted Link</a><br>
+      <img src="https://github.com/abhicode7/abhicode7/assets/87370756/ff982f7d-ff01-4a4a-93bc-ff40723b2dd9" alt="Cleochat Screenshot" width="400">
     </td>
     <td align="center">
-      <h4>Project 2</h4>
-      <a href="https://project2.example.com">Live Site</a><br>
-      <img src="https://via.placeholder.com/150" alt="Project 2 Screenshot" width="150">
+      <h4>Voyager: AI Images & Prompt Gallery</h4>
+      <a href="https://abhicode7.github.io/voyager">Live Site</a><br>
+      <img src="https://via.placeholder.com/150" alt="Project 2 Screenshot" width="400">
     </td>
   </tr>
 </table>
