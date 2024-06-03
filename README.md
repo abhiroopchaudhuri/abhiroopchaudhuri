@@ -1,16 +1,14 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.behance.net/abhiroopchaudhuri)
-
 <h3 align="left">My Recent Projects:</h3>
 <table>
   <tr>
     <td align="center">
       <h4>Cleochat: AI Multiple Personality Chat App</h4>
-      <a href="https://cleochat-eta.vercel.app/">Hosted Link</a><br>
+      <a href="https://cleochat-eta.vercel.app/">Hosted Link</a><br><br><br>
       <img src="https://github.com/abhicode7/abhicode7/assets/87370756/ff982f7d-ff01-4a4a-93bc-ff40723b2dd9" alt="Cleochat Screenshot" width="400">
     </td>
     <td align="center">
       <h4>Voyager: AI Images & Prompt Gallery</h4>
-      <a href="https://abhicode7.github.io/voyager">Live Site</a><br>
+      <a href="https://abhicode7.github.io/voyager">Live Site</a><br><br><br>
       <img src="https://github.com/abhicode7/abhicode7/assets/87370756/26b83fa5-869a-4973-bc87-6e7109ffa7cd" alt="Project 2 Screenshot" width="400">
     </td>
   </tr>
