@@ -2,7 +2,11 @@
 <h3 align="center">A Front-End Developer and Senior UX Designer from India with experience in Web 3.0, Fintech, Social Media platforms, Healthcare, and much more.</h3>
 
 
-<a align="cernter" href="https://cleochat-eta.vercel.app/"><h2 align="center">My Portfolio: </h></a><br><br>
+<p align="center">
+  <a href="https://abhicode7.github.io/portfolio">
+    <h2>My Portfolio</h2>
+  </a>
+</p>
 
 <h3 align="left">🧑🏻‍💻 My Recent Projects:</h3>
 <table>
