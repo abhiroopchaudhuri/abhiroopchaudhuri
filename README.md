@@ -3,10 +3,11 @@
 
 
 <p align="center">
-  <a href="https://abhicode7.github.io/portfolio">
-    <h2>My Portfolio</h2>
+  <a href="https://abhicode7.github.io/portfolio" style="text-decoration: none;">
+    <span style="font-size: 24px; font-weight: bold;">My Portfolio</span>
   </a>
 </p>
+
 
 <h3 align="left">🧑🏻‍💻 My Recent Projects:</h3>
 <table>
