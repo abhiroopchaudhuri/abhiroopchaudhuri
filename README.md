@@ -4,7 +4,7 @@
   <h1 align="center">Hi 👋, I'm Abhiroop</h1>
   
   <p align="center">
-    A Front-End Developer and Senior UX Designer from India with experience in Web 3.0, Fintech, Social Media platforms, Healthcare, and much more.
+    An AI Strategist, Senior UX Designer & Front-End Developer from India with experience in AI, Web 3.0, Fintech, Social Media platforms, Healthcare, and much more.
   </p>
   
   <p align="center">
