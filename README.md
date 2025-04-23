@@ -14,7 +14,7 @@ Passionate about leveraging AI to redefine user experiences, I thrive at the int
   </p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Front-End+Developer;Senior+UX+Designer;Experienced+in+Web+3.0;Fintech+%7C+Social+Media+%7C+Healthcare" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Front-End+Developer;Product+UX+Designer;Gen+AI+and+LLM+Automation+Specialist;Fintech+%7C+Social+Media+%7C+Healthcare" alt="Typing SVG" />
   </p>
 
   <a href="https://abhicode7.github.io/portfolio" target="_blank">
