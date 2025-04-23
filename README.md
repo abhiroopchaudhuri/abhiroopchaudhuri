@@ -17,7 +17,7 @@ Passionate about leveraging AI to redefine user experiences, I thrive at the int
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Front-End+Developer;Product+UX+Designer;Gen+AI+and+LLM+Automation+Specialist;Fintech+%7C+Social+Media+%7C+Healthcare" alt="Typing SVG" />
   </p>
 
-  <a href="https://abhicode7.github.io/portfolio" target="_blank">
+  <a href="https://abhiroopchaudhuri.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
