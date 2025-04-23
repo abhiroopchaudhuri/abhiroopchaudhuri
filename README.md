@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7b7b3b85-8aa5-4ef1-8b9a-0bed4497f37a" alt="Header" width="100%">
+  <img src="https://github.com/user-attachments/assets/ad558a0d-9721-41d6-b2dd-ed26554e2419" alt="Header" width="100%">
   
   <h1 align="center">Hi 👋, I'm Abhiroop</h1>
   
   <p align="center">
-    An AI Strategist, Senior UX Designer & Front-End Developer from India with experience in AI, Web 3.0, Fintech, Social Media platforms, Healthcare, and much more.
+    Dynamic Product UI/UX Designer and Front-End Developer specializing in React and Next.js, with a proven track record across B2B SaaS, B2C web and mobile applications, and cutting-edge Metaverse experiences. Adept at blending design thinking with technical execution to deliver intuitive, high-impact digital products.
+<br>
+As the co-founder of AIXON Lab, a nonprofit & non-commercial AI organization, I am dedicated to democratizing advanced AI workflows—enabling artists, filmmakers, and non-technical creators to harness the power of open-source community for fine-tuning, custom LoRA development, and generative AI solutions, all open-sourced for everyone to use, refine and learn.
+<br>
+My expertise spans the full product lifecycle: from in-depth user research and agile roadmapping to hands-on prototyping and launch. I excel at leading cross-functional teams, fostering seamless collaboration between design, engineering, and product stakeholders to drive innovation and deliver results.
+<br>
+Passionate about leveraging AI to redefine user experiences, I thrive at the intersection of creativity, technology, and human-centered design—consistently delivering products that inspire and empower users.
   </p>
   
   <p align="center">
