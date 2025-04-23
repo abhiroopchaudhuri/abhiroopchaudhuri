@@ -5,11 +5,11 @@
   
   <p align="center">
     Dynamic Product UI/UX Designer and Front-End Developer specializing in React and Next.js, with a proven track record across B2B SaaS, B2C web and mobile applications, and cutting-edge Metaverse experiences. Adept at blending design thinking with technical execution to deliver intuitive, high-impact digital products.
-<br>
+<br><br>
 As the co-founder of AIXON Lab, a nonprofit & non-commercial AI organization, I am dedicated to democratizing advanced AI workflows—enabling artists, filmmakers, and non-technical creators to harness the power of open-source community for fine-tuning, custom LoRA development, and generative AI solutions, all open-sourced for everyone to use, refine and learn.
-<br>
+<br><br>
 My expertise spans the full product lifecycle: from in-depth user research and agile roadmapping to hands-on prototyping and launch. I excel at leading cross-functional teams, fostering seamless collaboration between design, engineering, and product stakeholders to drive innovation and deliver results.
-<br>
+<br><br>
 Passionate about leveraging AI to redefine user experiences, I thrive at the intersection of creativity, technology, and human-centered design—consistently delivering products that inspire and empower users.
   </p>
   
